@@ -91,4 +91,6 @@ public class OrdemServico {
     public void setEquipamento(Equipamento equipamento) {
         this.equipamento = equipamento;
     }
+
+    
 }
